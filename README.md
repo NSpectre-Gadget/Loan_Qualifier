@@ -1,6 +1,5 @@
 # Loan_Qualifier
 ---
-First step instructions for 2nd week challenge.
 
 ### This is a respository for the Loan Qualification project.
 ```
